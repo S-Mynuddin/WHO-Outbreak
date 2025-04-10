@@ -5,3 +5,4 @@ numpy==1.24.3
 pandas
 openai
 gunicorn
+huggingface-hub==0.11.1
